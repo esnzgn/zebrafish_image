@@ -1,0 +1,8 @@
+dask
+imageio
+matplotlib
+napari
+numpy
+pandas
+
+# pip install "aicspylibczi>=3.1.1" "fsspec>=2022.7.1"
